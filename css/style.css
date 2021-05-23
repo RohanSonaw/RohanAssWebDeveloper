@@ -21,6 +21,7 @@ header.header_bg {background: url(../images/bannerImg.jpg);}
 .logoSlider {background: rgb(255 255 255 / 81%);padding: 10px 20px;margin-top: -50px;border-radius: 10px;box-shadow: 0px 1px 14px #d0d0d0;}
 /*Banner*/
 
+/*Extra Css*/
 .downArrow i.fa {font-size: 25px;}
 .progressGrow {background: url(../images/growFaster.jpg);color: #fff;background-size: cover;background-repeat: no-repeat;padding:6% 0px;}
 
@@ -40,6 +41,8 @@ section.awards {background: url(../images/awardsBG.png);background-size: cover;b
 .title_border:after {content:'';position:absolute;height: 3px;width: 10%;background:#FF9800;bottom: -8px;left: 45%;}
 .vidio_sec .title_border:after {left: 0;}
 .potential a.btn {background: #1b3c6d;border-color: #1b3c6d;}
+
+/*Extra Css*/
 
 /*Footer*/
 footer ul {padding: 0;list-style: none;}
